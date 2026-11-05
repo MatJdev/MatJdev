@@ -5,6 +5,8 @@
 ## Current Projects:
 - [Stamport - Travel Passport](https://matjdev.github.io/Stamport-app/)
 - [Kiu - Habit Tracker](https://matjdev.github.io/kiu-web/)
+- [Tavy - Walk & Compete](https://matjdev.github.io/tavy-web/)
+- [Mitsuke - Carspotting](https://matjdev.github.io/mitsuke-web/)
 
 ## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
