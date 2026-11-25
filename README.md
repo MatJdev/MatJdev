@@ -5,10 +5,10 @@ I build custom iOS & Android apps at **[Jahu](https://jahu.dev)**. Four of my ow
 
 ![bannerGit](https://github.com/user-attachments/assets/8eadbe90-31ba-43a5-9ba7-f5164ee577fa)
 ## Current Projects:
-- [Stamport - Travel Passport](https://matjdev.github.io/Stamport-app/)
-- [Kiu - Habit Tracker](https://matjdev.github.io/kiu-web/)
-- [Tavy - Walk & Compete](https://matjdev.github.io/tavy-web/)
-- [Mitsuke - Carspotting](https://matjdev.github.io/mitsuke-web/)
+- [Stamport - Travel Passport](https://stamport.jahu.dev/)
+- [Kiu - Habit Tracker](https://kiu.jahu.dev/)
+- [Tavy - Walk & Compete](https://tavy.jahu.dev/)
+- [Mitsuke - Carspotting](https://mitsuke.jahu.dev/)
 - [See all case studies →](https://jahu.dev/casos/)
 
 ## Skills:
