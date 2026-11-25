@@ -1,12 +1,15 @@
 # Hi, I'm Mat 👋
 ### Android/iOS Mobile Developer
 
+I build custom iOS & Android apps at **[Jahu](https://jahu.dev)**. Four of my own apps are live on the stores, and that's the base I start client projects from.
+
 ![bannerGit](https://github.com/user-attachments/assets/8eadbe90-31ba-43a5-9ba7-f5164ee577fa)
 ## Current Projects:
 - [Stamport - Travel Passport](https://matjdev.github.io/Stamport-app/)
 - [Kiu - Habit Tracker](https://matjdev.github.io/kiu-web/)
 - [Tavy - Walk & Compete](https://matjdev.github.io/tavy-web/)
 - [Mitsuke - Carspotting](https://matjdev.github.io/mitsuke-web/)
+- [See all case studies →](https://jahu.dev/casos/)
 
 ## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
@@ -26,5 +29,6 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
+[![Jahu](https://img.shields.io/badge/Jahu-jahu.dev-2E7D5B?style=for-the-badge&logoColor=white&labelColor=101010)](https://jahu.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias_Jarquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matiasjarquez/)
 
